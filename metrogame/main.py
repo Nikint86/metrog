@@ -1,5 +1,4 @@
 import random
-import file_operations
 from faker import Faker
 
 
